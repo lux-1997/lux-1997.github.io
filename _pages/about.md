@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,15 +9,14 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Xuan Lu**, a joint Ph.D. student at **Shanghai Jiao Tong University** and the [EIT NLP Group](https://idt.eitech.edu.cn/nlp/#/) at the Eastern Institute of Technology, Ningbo, supervised by Dr. [Xiaoyu Shen](https://chin-gyou.github.io/). Previously, I received both my B.S. and M.S. degrees from **Shenzhen University**. I also collaborate closely with Dr. [Rui Meng](https://memray.me/) at **Google AI Research**.
+I am **Xuan Lu**, a joint Ph.D. student at Shanghai Jiao Tong University and the [EIT NLP Group](https://idt.eitech.edu.cn/nlp/#/) at the Eastern Institute of Technology, Ningbo, supervised by Dr. [Xiaoyu Shen](https://chin-gyou.github.io/). Previously, I received both my B.S. and M.S. degrees from Shenzhen University. I also collaborate closely with Dr. [Rui Meng](https://memray.me/) at Google AI Research.
 
-# Research
 I have strong interests in machine learning and natural language processing, with a particular focus on information retrieval and efficient inference. My current research directions include:
 
 - **Fine-grained Retrieval:** Studying retrieval under multiple, fine-grained constraints, including multi-condition retrieval [[EMNLP’25](https://arxiv.org/abs/2503.08046v3)], tool retrieval 
-  [[ICLR’25](https://arxiv.org/abs/2510.22670)], and multimodal retrieval requiring precise relevance attribution.
+  [[ICLR’26](https://arxiv.org/abs/2510.22670)], and multimodal retrieval requiring precise relevance attribution.
 
-- **Efficient Ranking:** Focusing on reducing inference cost in ranking and retrieval systems, including efficient reranking [[ICLR’25](https://arxiv.org/abs/2510.08985)], RAG, and in-context retrieval via token compression and efficient ranking paradigms.
+- **Efficient Ranking:** Focusing on reducing inference cost in ranking and retrieval systems, including efficient reranking [[ICLR’26](https://arxiv.org/abs/2510.08985)], RAG, and in-context retrieval via token compression and efficient ranking paradigms.
 
 - **Omni-modality Embeddings:** Developing unified embedding models that support text, vision, audio, and structured documents, enabling scalable retrieval across heterogeneous modalities.
 
@@ -30,7 +29,7 @@ I have strong interests in machine learning and natural language processing, wit
 [2025.11] Attended EMNLP 2025 in person for the first time — a truly exciting experience 🎉  
 [2025.08] Got one paper accepted by EMNLP 2025🎉!   
 [2025.05] Released our new [survey](https://arxiv.org/pdf/2505.16782) on Latent Chain-of-Thought Reasoning.  
-[2024.09] Started my Ph.D. study at the SJTU & [EIT NLP](https://eit-nlp.github.io/lab-website/), supervised by Dr. Xiaoyu Shen.  
+[2024.09] Started my Ph.D. study at the SJTU & [EIT NLP](https://idt.eitech.edu.cn/nlp/#/), supervised by Dr. Xiaoyu Shen.  
 
 # Publications
 
@@ -38,15 +37,15 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 \* indicates equal contribution
 
 **Rethinking Reasoning in Document Ranking: Why Chain-of-Thought Falls Short**  
-**<ins>Xuan Lu</ins>**, Haohang Huang, Rui Meng, Yaohui Jin, Wenjun Zeng, Xiaoyu Shen.<sup>†</sup>    
+**<ins>Xuan Lu\*</ins>**, Haohang Huang\*, Rui Meng, Yaohui Jin, Wenjun Zeng, Xiaoyu Shen.<sup>†</sup>    
 ICLR 2026. [[link]](https://arxiv.org/abs/2510.08985) [[code]](https://github.com/EIT-NLP/Direct-Rank)  
 
 **Tools Are Under-Documented: Simple Document Expansion Boosts Tool Retrieval**  
-**<ins>Xuan Lu</ins>**, Haohang Huang, Rui Meng, Yaohui Jin, Wenjun Zeng, Xiaoyu Shen.<sup>†</sup>    
+**<ins>Xuan Lu\*</ins>**, Haohang Huang\*, Rui Meng, Yaohui Jin, Wenjun Zeng, Xiaoyu Shen.<sup>†</sup>    
 ICLR 2026. [[link]](https://arxiv.org/abs/2510.22670) [[code]](https://github.com/EIT-NLP/Tool-DE)  
 
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
-Xinghao Chen\*, **<ins>Anhao Zhao</ins>**\*, Heming Xia, Xuan Lu, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
+Xinghao Chen\*, Anhao Zhao\*, Heming Xia, **<ins>Xuan Lu<ins>**, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
 Arxiv 2025. [[link]](https://arxiv.org/pdf/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
 
 **MultiConIR: Towards Multi-Condition Information Retrieval.**  
