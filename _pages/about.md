@@ -45,7 +45,7 @@ ICLR 2026. [[link]](https://arxiv.org/abs/2510.08985) [[code]](https://github.co
 ICLR 2026. [[link]](https://arxiv.org/abs/2510.22670) [[code]](https://github.com/EIT-NLP/Tool-DE)  
 
 **Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**  
-Xinghao Chen\*, Anhao Zhao\*, Heming Xia, **<ins>Xuan Lu<ins>**, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
+Xinghao Chen\*, Anhao Zhao\*, Heming Xia, **<ins>Xuan Lu</ins>**, Hanlin Wang, Yanjun Chen, Wei Zhang, Jian Wang<sup>†</sup>, Wenjie Li, Xiaoyu Shen<sup>†</sup>  
 Arxiv 2025. [[link]](https://arxiv.org/pdf/2505.16782) [[code]](https://github.com/EIT-NLP/Awesome-Latent-CoT)  
 
 **MultiConIR: Towards Multi-Condition Information Retrieval.**  
@@ -56,9 +56,6 @@ EMNLP 2025 Findings. [[link]](https://aclanthology.org/2025.findings-emnlp.726/)
 Haohang Huang, **<ins>Xuan Lu</ins>**.<sup>†</sup>    
 ICIC 2025. [[link]](https://link.springer.com/chapter/10.1007/978-981-96-9875-2_28) 
 
-**A Novel Random Sample Partition-Based Ensemble Algorithm for Credit Card Fraud Detection**  
-Haohang Huang, **<ins>Xuan Lu</ins>**.<sup>†</sup>    
-ICIC 2025. [[link]](https://link.springer.com/chapter/10.1007/978-981-96-9875-2_28) 
 
 **An Overlapping Minimization-Based Over-Sampling Algorithm for Binary Imbalanced Classification**  
 **<ins>Xuan Lu</ins>**, Xuan Ye<sup>†</sup>, Yingchao Cheng.    
