@@ -63,7 +63,7 @@ EAAI 2024. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S09521
 
 **A Novel Overlapping Minimization SMOTE Algorithm for Imbalanced Classification.**  
 Yulin He, **<ins>Xuan Lu</ins>**, Philippe Fournier-Viger, Joshua Zhexue Huang.<sup>†</sup>    
-FITEE 2025. [[link]](https://link.springer.com/article/10.1631/FITEE.2300278) 
+FITEE 2024. [[link]](https://link.springer.com/article/10.1631/FITEE.2300278) 
 
 
 <div id="mapmyvisitors-widget" style="width:40%; margin: 0 auto; display:block;">
