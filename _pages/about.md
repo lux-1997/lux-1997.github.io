@@ -28,8 +28,7 @@ I have strong interests in machine learning and natural language processing, wit
 [2026.01] Got two papers accepted by ICLR 2026🎉!  
 [2025.11] Attended EMNLP 2025 for the first time🎉  
 [2025.08] Got one paper accepted by EMNLP 2025🎉!   
-[2025.05] Released our new [survey](https://arxiv.org/pdf/2505.16782) on Latent Chain-of-Thought Reasoning.  
-[2024.09] Started my Ph.D. study at the SJTU & [EIT NLP](https://idt.eitech.edu.cn/nlp/#/) 🥳
+[2024.09] Started my Ph.D. study at the SJTU & EIT🥳
 
 # Publications
 
