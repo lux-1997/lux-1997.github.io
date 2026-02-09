@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-Hi, I am **Xuan Lu**, a joint Ph.D. student at Shanghai Jiao Tong University and the [EIT NLP Group](https://idt.eitech.edu.cn/nlp/#/) at the Eastern Institute of Technology, Ningbo, supervised by Prof. [Xiaoyu Shen](https://chin-gyou.github.io/). Previously, I received both my B.S. and M.S. degrees from Shenzhen University. I also collaborate closely with Dr. [Rui Meng](https://memray.me/) at Google AI Research.
+I am **Xuan Lu**, a joint Ph.D. student at Shanghai Jiao Tong University and the [EIT NLP Group](https://idt.eitech.edu.cn/nlp/#/) at the Eastern Institute of Technology, Ningbo, supervised by Prof. [Xiaoyu Shen](https://chin-gyou.github.io/). Previously, I received both my B.S. and M.S. degrees from Shenzhen University. I also collaborate closely with Dr. [Rui Meng](https://memray.me/) at Google AI Research.
 
 I have strong interests in machine learning and natural language processing, with a particular focus on information retrieval and efficient reasoning. My current research directions include:
 
@@ -23,14 +23,14 @@ I have strong interests in machine learning and natural language processing, wit
 
 📬 *I am open to collaborations and discussions. Please feel free to reach out to me if you are interested in my research or any relevant topics.*
 
-🔥 # News
+# 🔥 News
 
-[2026.01] Got two papers accepted by ICLR 2026 🎉!  
-[2025.11] Attended EMNLP 2025 for the first time 😃! 
-[2025.08] Got one paper accepted by EMNLP 2025 🎉!   
-[2024.09] Started my Ph.D. study at the SJTU & EIT 🥳！
+- [2026.01] Got two papers accepted by ICLR 2026 🎉!
+- [2025.11] Attended EMNLP 2025 for the first time 😃!
+- [2025.08] Got one paper accepted by EMNLP 2025 🎉!
+- [2024.09] Started my Ph.D. study at SJTU & EIT 🥳!
 
-📖 # Publications
+# 📖 Publications
 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=WTSTEqwAAAAJ).  
 \* indicates equal contribution
