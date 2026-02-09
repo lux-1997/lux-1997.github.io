@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am **Xuan Lu**, a joint Ph.D. student at Shanghai Jiao Tong University and the [EIT NLP Group](https://idt.eitech.edu.cn/nlp/#/) at the Eastern Institute of Technology, Ningbo, supervised by Prof. [Xiaoyu Shen](https://chin-gyou.github.io/). Previously, I received both my B.S. and M.S. degrees from Shenzhen University. I also collaborate closely with Dr. [Rui Meng](https://memray.me/) at Google AI Research.
+I am Xuan Lu (路璇), a Ph.D. student at Shanghai Jiao Tong University and the [EIT NLP Group](https://idt.eitech.edu.cn/nlp/#/) at the Eastern Institute of Technology, Ningbo, supervised by Prof. [Xiaoyu Shen](https://chin-gyou.github.io/). Previously, I received both my B.S. and M.S. degrees from Shenzhen University. I also collaborate closely with Dr. [Rui Meng](https://memray.me/) at Google AI Research.
 
 I have strong interests in machine learning and natural language processing, with a particular focus on information retrieval and efficient reasoning. My current research directions include:
 
