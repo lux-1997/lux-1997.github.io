@@ -1,22 +1,16 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Xuan Lu",
+        "Kangle Li",
+        "Haohang Huang",
+        "Rui Meng",
+        "Wenjun Zeng",
+        "Xiaoyu Shen†"
       ],
-      "venue": "Preprint (2025)",
+      "venue": "CVPR 2026",
       "thumbnail": "images/thumbs/1.jpg",
       "selected": 1,
       "award": "",
@@ -27,23 +21,132 @@
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Rethinking Reasoning in Document Ranking: Why Chain-of-Thought Falls Short",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Xuan Lu*",
+        "Haohang Huang*",
+        "Rui Meng",
+        "Yaohui Jin",
+        "Wenjun Zeng",
+        "Xiaoyu Shen†"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
-      "selected": 0,
+      "venue": "ICLR 2026",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "code": "#",
+        "project": "#"
+      }
+    },
+    {
+      "title": "Tools Are Under-Documented: Simple Document Expansion Boosts Tool Retrieval",
+      "authors": [
+        "Xuan Lu*",
+        "Haohang Huang*",
+        "Rui Meng",
+        "Yaohui Jin",
+        "Wenjun Zeng",
+        "Xiaoyu Shen†"
+      ],
+      "venue": "ICLR 2026",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "code": "#",
+        "project": "#"
+      }
+    },
+    {
+      "title": "Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning",
+      "authors": [
+        "Xinghao Chen*",
+        "Anhao Zhao*",
+        "Heming Xia",
+        "Xuan Lu",
+        "Hanlin Wang",
+        "Yanjun Chen",
+        "Wei Zhang",
+        "Jian Wang†",
+        "Wenjie Li",
+        "Xiaoyu Shen†"
+      ],
+      "venue": "arXiv 2025",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "code": "#",
+        "project": "#"
+      }
+    },
+    {
+      "title": "MultiConIR: Towards Multi-Condition Information Retrieval",
+      "authors": [
+        "Xuan Lu",
+        "Sifan Liu",
+        "Bochao Yin",
+        "Yongqi Li",
+        "Xinghao Chen",
+        "Hui Su",
+        "Yaohui Jin",
+        "Wenjun Zeng",
+        "Xiaoyu Shen†"
+      ],
+      "venue": "EMNLP 2025 Findings",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "code": "#",
+        "project": "#"
+      }
+    },
+    {
+      "title": "A Novel Random Sample Partition-Based Ensemble Algorithm for Credit Card Fraud Detection",
+      "authors": [
+        "Haohang Huang",
+        "Xuan Lu†"
+      ],
+      "venue": "ICIC 2025",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      }
+    },
+    {
+      "title": "An Overlapping Minimization-Based Over-Sampling Algorithm for Binary Imbalanced Classification",
+      "authors": [
+        "Xuan Lu",
+        "Xuan Ye†",
+        "Yingchao Cheng"
+      ],
+      "venue": "EAAI 2024",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#"
+      }
+    },
+    {
+      "title": "A Novel Overlapping Minimization SMOTE Algorithm for Imbalanced Classification",
+      "authors": [
+        "Yulin He",
+        "Xuan Lu",
+        "Philippe Fournier-Viger",
+        "Joshua Zhexue Huang†"
+      ],
+      "venue": "FITEE 2024",
+      "thumbnail": "images/thumbs/1.jpg",
+      "selected": 1,
       "award": "",
       "links": {
         "pdf": "#"
