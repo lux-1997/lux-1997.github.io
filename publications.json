@@ -11,13 +11,12 @@
         "Xiaoyu Shen†"
       ],
       "venue": "CVPR 2026",
-      "thumbnail": "images/thumbs/1.jpg",
+      "thumbnail": "images/thumbs/mcmr.jpg",
       "selected": 1,
       "award": "",
       "links": {
         "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "code": "#"
       }
     },
     {
@@ -31,13 +30,12 @@
         "Xiaoyu Shen†"
       ],
       "venue": "ICLR 2026",
-      "thumbnail": "images/thumbs/1.jpg",
+      "thumbnail": "images/thumbs/direct-rank.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://arxiv.org/abs/2510.08985",
+        "code": "https://github.com/EIT-NLP/Direct-Rank"
       }
     },
     {
@@ -51,13 +49,12 @@
         "Xiaoyu Shen†"
       ],
       "venue": "ICLR 2026",
-      "thumbnail": "images/thumbs/1.jpg",
+      "thumbnail": "images/thumbs/tool-rex.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://arxiv.org/abs/2510.22670",
+        "code": "https://github.com/EIT-NLP/Tool-REX"
       }
     },
     {
@@ -75,13 +72,12 @@
         "Xiaoyu Shen†"
       ],
       "venue": "arXiv 2025",
-      "thumbnail": "images/thumbs/1.jpg",
+      "thumbnail": "images/thumbs/latent_cot_survey.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://arxiv.org/abs/2505.16782",
+        "code": "https://github.com/EIT-NLP/Awesome-Latent-CoT"
       }
     },
     {
@@ -98,13 +94,12 @@
         "Xiaoyu Shen†"
       ],
       "venue": "EMNLP 2025 Findings",
-      "thumbnail": "images/thumbs/1.jpg",
+      "thumbnail": "images/thumbs/multiconir.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://arxiv.org/abs/2503.08046v3",
+        "code": "https://github.com/EIT-NLP/MultiConIR"
       }
     },
     {
@@ -115,7 +110,7 @@
       ],
       "venue": "ICIC 2025",
       "thumbnail": "images/thumbs/1.jpg",
-      "selected": 1,
+      "selected": 0,
       "award": "",
       "links": {
         "pdf": "#"
@@ -130,7 +125,7 @@
       ],
       "venue": "EAAI 2024",
       "thumbnail": "images/thumbs/1.jpg",
-      "selected": 1,
+      "selected": 0,
       "award": "",
       "links": {
         "pdf": "#"
@@ -146,7 +141,7 @@
       ],
       "venue": "FITEE 2024",
       "thumbnail": "images/thumbs/1.jpg",
-      "selected": 1,
+      "selected": 0,
       "award": "",
       "links": {
         "pdf": "#"
