@@ -3,8 +3,8 @@
 {
       "title": "MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models",
       "authors": [
-        "Haohang Huang",
-        "Xuan Lu",
+        "Haohang Huang*",
+        "Xuan Lu*",
         "Mingyi Su",
         "Xuan Zhang",
         "Ziyan Jiang",
@@ -17,7 +17,7 @@
         "Rui Meng"
       ],
       "venue": "Preprint",
-      "thumbnail": "images/thumbs/mmeb.jpg",
+      "thumbnail": "images/thumbs/mmeb.png",
       "selected": 1,
       "award": "",
       "links": {
