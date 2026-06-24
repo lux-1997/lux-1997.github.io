@@ -20,7 +20,6 @@
       "thumbnail": "images/thumbs/mmeb.png",
       "selected": 1,
       "award": "",
-      "github_stars_badge": "https://img.shields.io/github/stars/TIGER-AI-Lab/VLM2Vec?style=social",
       "links": {
         "pdf": "https://arxiv.org/abs/2604.23321",
         "code": "https://github.com/TIGER-AI-Lab/VLM2Vec/tree/olm2vec"
