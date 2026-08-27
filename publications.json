@@ -1,5 +1,43 @@
 {
   "publications": [
+  {
+      "title": "When Should Queries Be Decomposed? A Stage-Aware Study of Query Decomposition for Multi-Condition Retrieval",
+      "authors": [
+        "Bochao Yin*",
+        "Xuan Lu*",
+        "Zhengyu Qi",
+        "Xiaoyu Shen"
+      ],
+      "venue": "EMNLP 2026 Findings",
+      "thumbnail": "images/thumbs/query_decompose.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2606.08577",
+        "code": "https://github.com/EIT-NLP/Query-Decompose"
+      }
+    },
+  {
+      "title": "miniReranker: Efficient Multimodal Reranking through Visual Cache Reuse and Interaction Sparsity",
+      "authors": [
+        "Yingqi Fan",
+        "Xuan Lu",
+        "Anhao Zhao",
+        "Junlong Tong",
+        "Ping Nie",
+        "Kai Zou",
+        "Yunpu Ma",
+        "Wei Zhang",
+        "Xiaoyu Shen"
+      ],
+      "venue": "EMNLP 2026 Findings",
+      "thumbnail": "images/thumbs/miniranker.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/abs/2606.10759"
+      }
+  },
 {
       "title": "MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models",
       "authors": [
