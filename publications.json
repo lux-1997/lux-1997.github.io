@@ -85,8 +85,8 @@
     {
       "title": "Rethinking Reasoning in Document Ranking: Why Chain-of-Thought Falls Short",
       "authors": [
-        "Xuan Lu*",
-        "Haohang Huang*",
+        "Xuan Lu",
+        "Haohang Huang",
         "Rui Meng",
         "Yaohui Jin",
         "Wenjun Zeng",
@@ -104,8 +104,8 @@
     {
       "title": "Tools Are Under-Documented: Simple Document Expansion Boosts Tool Retrieval",
       "authors": [
-        "Xuan Lu*",
-        "Haohang Huang*",
+        "Xuan Lu",
+        "Haohang Huang",
         "Rui Meng",
         "Yaohui Jin",
         "Wenjun Zeng",
